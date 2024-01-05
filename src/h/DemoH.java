@@ -15,4 +15,8 @@ public static void main(String[] args) {
 		System.out.println("Alishan");
 		
 	}
+	// push to git
+	public void num(String num) {
+		System.out.println("testing");
+	}
 }
