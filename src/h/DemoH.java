@@ -18,5 +18,8 @@ public static void main(String[] args) {
 	// push to git
 	public void num(String num) {
 		System.out.println("testing");
+		// pull to eclipse
+		System.out.println("did it work?");
+		
 	}
 }
