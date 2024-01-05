@@ -11,4 +11,8 @@ public static void main(String[] args) {
 		System.out.println(a / b);
 		
 	}
+	public void minus(string name){
+		System.out.println("Alishan");
+		
+	}
 }
